@@ -1,0 +1,14 @@
+h1{
+    color: #F8F8FF;
+    transition: 0.5;
+}
+
+h1:hover{
+    color: #00FFFF;
+    
+}
+
+#btn:hover{
+    background-color: #fff;
+    color: dodgerblue;
+}
